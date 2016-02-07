@@ -9,7 +9,7 @@
   {env,[]},
   {modules, []},
 
-  {maintainers, []},
-  {licenses, []},
-  {links, []}
+  {maintainers, ["Tristan Sloughter"]},
+  {licenses, ["BSD"]},
+  {links, [{"Github", "https://github.com/tsloughter/rebar3_elixirc"}]}
  ]}.

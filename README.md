@@ -1,7 +1,7 @@
 rebar3_elixirc
 =====
 
-A rebar plugin
+Plugin for building Elixir modules.
 
 Build
 -----
